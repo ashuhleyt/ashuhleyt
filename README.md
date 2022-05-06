@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashuhleyt
 - 👀 I’m interested in cooking, cycling, and travelling. 
 - 🌱 I’m currently learning back end.
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me . . . ashuhleyt@gmail.com
 
 <!---
