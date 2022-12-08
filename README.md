@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @ashuhleyt
-- 👀 I’m interested in cooking, cycling, and travelling. 
-- 🌱 I’m currently learning back end.
+## ✨ Hey there! I'm Ashley. ✨ 
+- 🥘 I have a hunger to learn more, and always eat more, too.  
+- 📖 I’m currently learning how to build an API in Rails. 
 
-- 📫 How to reach me . . . ashuhleyt@gmail.com
+In my limited free time, you can find me:
+- 👩‍🍳 Cooking
+- 🚲 Exercising
+- 🐶 🐱 Hanging with a lot of animals
+- ☕️ Drinking far too much coffee
+<br>
+📫 <b>Reach me at:</b> ashuhleyt@gmail.com
+<br>
+
+![Ashleys's Github Score](https://github-readme-stats.vercel.app/api?username=ashuhleyt&show_icons=true&hide_border=true)
+<br>
 
 <!---
 ashuhleyt/ashuhleyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
