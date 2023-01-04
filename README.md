@@ -10,7 +10,7 @@ In my limited free time, you can find me:
 <br>
 📫 <b>Reach me at:</b> ashuhleyt@gmail.com
 <br>
-![Ashleys's Github Score](https://github-readme-stats.vercel.app/api?username=ashuhleyt&show_icons=true&hide_border=true)
+![Ashley's github stats](https://github-readme-stats.vercel.app/api?username=ashuhleyt&show_icons=true&hide_border=true)
 <br>
 
 <!---
