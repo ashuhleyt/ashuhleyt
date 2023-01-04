@@ -10,7 +10,8 @@ In my limited free time, you can find me:
 <br>
 📫 <b>Reach me at:</b> ashuhleyt@gmail.com
 <br>
-👩🏼‍🏫 [LinkedIn](https://www.linkedin.com/in/ashley-turner-9a21627a/)
+[LinkedIn](https://www.linkedin.com/in/ashley-turner-9a21627a/)
+<br>
 <br>
 ![Ashleys's Github Score](https://github-readme-stats.vercel.app/api?username=ashuhleyt&show_icons=true&hide_border=true)
 <br>
