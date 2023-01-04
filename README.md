@@ -8,11 +8,12 @@ In my limited free time, you can find me:
 - 🐶 🐱 Hanging with a lot of animals
 - ☕️ Drinking far too much coffee
 <br>
-📫 <b>Reach me at:</b> ashuhleyt@gmail.com
+📫 <b>Reach me at:</b> ashuhleyt@gmail.com, [LinkedIn](https://www.linkedin.com/in/ashley-turner-9a21627a/)
 <br>
-![Ashley's github stats](https://github-readme-stats.vercel.app/api?username=ashuhleyt&show_icons=true&hide_border=true)
-<br>
+![Ashleys's Github Score](https://github-readme-stats.vercel.app/api?username=ashuhleyt&show_icons=true&hide_border=true)
 
+<br>
+[Ashley's Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashuhleyt)
 <!---
 ashuhleyt/ashuhleyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
