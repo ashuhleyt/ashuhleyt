@@ -1,4 +1,8 @@
+<div align="center">
+  
 ## ✨ Hey there! I'm Ashley. ✨ 
+  </div>
+  
 - 🥘 I have a hunger to learn more, and always eat more, too.  
 - 📖 I’m currently learning everything there is to know in Ruby on Rails. 
 
@@ -8,11 +12,12 @@ In my limited free time, you can find me:
 - 🐶 🐱 Hanging with a lot of animals
 - ☕️ Drinking far too much coffee
 <br>
-📫 <b>Reach me at:</b> ashuhleyt@gmail.com, [LinkedIn](https://www.linkedin.com/in/ashley-turner-9a21627a/)
+📫 <b>Reach me at:</b> ashuhleyt@gmail.com
 <br>
-![Ashleys's Github Score](https://github-readme-stats.vercel.app/api?username=ashuhleyt&show_icons=true&hide_border=true)
 <br>
-![Ashley's Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashuhleyt)
+
+[![Ashley's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuhleyt)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 ashuhleyt/ashuhleyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
