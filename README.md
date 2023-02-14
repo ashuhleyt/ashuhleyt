@@ -7,31 +7,23 @@
 </div>
 <h3> What I've Been Learning </h3>
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=red)
 ![rubyonrails](https://img.shields.io/badge/rubyonrails-000000?style=for-the-badge&logo=rubyonrails&logoColor=red)
-![ruby](https://img.shields.io/badge/ruby-000000?style=for-the-badge&logo=ruby&logoColor=red)
-![rubygems](https://img.shields.io/badge/rubygems-000000?style=for-the-badge&logo=rubygems&logoColor=red)
-<br>
-
-![json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=light-blue)
+<br>
 ![httpie](https://img.shields.io/badge/httpie-000000?style=for-the-badge&logo=httpie&logoColor=teal)
-![postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=orange)
-![graphql](https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql&logoColor=grey)
+![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=GraphQL&logoColor=pink)
 
 
 In my limited free time, you can find me:
 <br>
 - 👩‍🍳 Cooking
 - 🚲 Exercising
-- 🐶 🐱 Hanging with a lot of animals
+- 🐶 🐱 Decompressing with my animals
 - ☕️ Drinking far too much coffee
 - ✈️ Travelling anywhere and everywhere
 
 <br>
 📫 <b>Reach me at:</b> ashuhleyt@gmail.com
-<br>
 
 <br>
 <h3>GitHub Stats</h3>
