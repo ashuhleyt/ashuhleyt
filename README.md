@@ -13,12 +13,12 @@
 ![ruby](https://img.shields.io/badge/ruby-000000?style=for-the-badge&logo=ruby&logoColor=red)
 ![rubygems](https://img.shields.io/badge/rubygems-000000?style=for-the-badge&logo=rubygems&logoColor=red)
 <br>
-![rubocop](https://img.shields.io/badge/rubocop-000000?style=for-the-badge&logo=rubocop&logoColor=red)
+
 ![json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=light-blue)
 ![httpie](https://img.shields.io/badge/httpie-000000?style=for-the-badge&logo=httpie&logoColor=teal)
 ![postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=orange)
-![visualstudiocode](https://img.shields.io/badge/visualstudiocode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=grey)
+![graphql](https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql&logoColor=grey)
 
 
 In my limited free time, you can find me:
