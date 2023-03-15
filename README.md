@@ -10,7 +10,6 @@
 ![rubyonrails](https://img.shields.io/badge/rubyonrails-000000?style=for-the-badge&logo=rubyonrails&logoColor=red)
 ![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=light-blue)
 <br>
-![httpie](https://img.shields.io/badge/httpie-000000?style=for-the-badge&logo=httpie&logoColor=teal)
 ![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=GraphQL&logoColor=pink)
 
 
@@ -22,8 +21,15 @@ In my limited free time, you can find me:
 - ☕️ Drinking far too much coffee
 - ✈️ Travelling anywhere and everywhere
 
+
+Add Me On: 
+
+<a href="https://linkedin.com/in/ashuhleyt" target="_blank">
+ <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a><br>
 <br>
 📫 <b>Reach me at:</b> ashuhleyt@gmail.com
+<br> 
 
 <br>
 <h3>GitHub Stats</h3>
