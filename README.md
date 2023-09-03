@@ -15,6 +15,7 @@
 
 In my limited free time, you can find me:
 <br>
+- ☕ Slinging Lattes
 - 👩‍🍳 Cooking
 - 🚲 Exercising
 - 🐶 🐱 Decompressing with my animals
