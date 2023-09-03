@@ -9,8 +9,14 @@
 
 ![rubyonrails](https://img.shields.io/badge/rubyonrails-000000?style=for-the-badge&logo=rubyonrails&logoColor=red)
 ![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=light-blue)
-<br>
 ![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=GraphQL&logoColor=pink)
+![JSON](https://img.shields.io/badge/JSON-100000?style=for-the-badge&logo=JSON&logoColor=477DC3&labelColor=000000&color=000000)
+![POSTMAN](https://img.shields.io/badge/POSTMAN-100000?style=for-the-badge&logo=Postman&logoColor=ef5b25&labelColor=000000&color=000000)
+
+
+
+
+
 
 
 In my limited free time, you can find me:
