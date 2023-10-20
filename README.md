@@ -29,13 +29,16 @@ In my limited free time, you can find me:
 - ✈️ Travelling anywhere and everywhere
 
 
-Add Me On: 
+<h4>Wanna share ideas? Opportunities? Get in a deep conversation about the meaning of life? 
+<br>
+Find me 👇🏽 </h4>
 
 <a href="https://linkedin.com/in/ashuhleyt" target="_blank">
  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a><br>
+<a href='mailto:youremail@example.com'><img alt='Gmail' src='https://img.shields.io/badge/Email_Me -100000?style=for-the-badge&logo=Gmail&logoColor=f2a60c&labelColor=08851b&color=c71610'/></a>
 <br>
-📫 <b>Reach me at:</b> ashuhleyt@gmail.com
+I love to chat. Lets make it happen. 
 <br> 
 
 <br>
