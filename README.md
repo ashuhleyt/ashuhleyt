@@ -1,10 +1,6 @@
-<div align="center">
+<h2 align="center">✨ Hey there! I'm Ashley. ✨</h2>
+<h2 align="center">Stay Hungry.</h2>
 
-## &#x2728; Hey there! I'm Ashley. &#x2728;
-
-## Stay Hungry.
-
-</div>
 
 
 <h3>What I've Been Learning</h3>
