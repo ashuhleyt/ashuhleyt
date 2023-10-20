@@ -30,11 +30,7 @@ In my limited free time, you can find me:
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<h3>Contact Me</h3>
-
-<a href="mailto:ashuhleyt@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Email_Me-100000?style=for-the-badge&logo=Gmail&logoColor=f2a60c&labelColor=08851b&color=c71610" />
-</a>
+[![gmail-badge]][Gmail]
 
 I love to chat. Let's make it happen.
 
@@ -43,4 +39,6 @@ I love to chat. Let's make it happen.
 [![Ashley's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuhleyt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=ashuhleyt&show_icons=true&hide_border=true)
-
+<!--LINKS--> 
+[gmail-badge]: https://img.shields.io/badge/-ashuhleyt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white
+[Gmail]: mailto:ashuhleyt@gmail.com
