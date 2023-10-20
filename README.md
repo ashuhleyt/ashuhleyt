@@ -26,10 +26,7 @@ In my limited free time, you can find me:
 
 <h3>Wanna share ideas? Opportunities? Get in a deep conversation about the meaning of life?</h3>
 
-<a href="https://linkedin.com/in/ashuhleyt" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
+[![LinkedIn: ashuhleyt][linkedin-badge]][LinkedIn]
 [![gmail-badge]][Gmail]
 
 I love to chat. Let's make it happen.
@@ -42,3 +39,6 @@ I love to chat. Let's make it happen.
 <!--LINKS--> 
 [gmail-badge]: https://img.shields.io/badge/-ashuhleyt@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white
 [Gmail]: mailto:ashuhleyt@gmail.com
+
+[linkedin-badge]: https://img.shields.io/badge/Ashley%20Turner-%23OpenToWork-green?style=flat&logo=Linkedin&logoColor=black&color=7DE787&labelColor=0077b5
+[LinkedIn]: https://linkedin.com/in/ashuhleyt
