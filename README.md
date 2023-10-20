@@ -36,7 +36,7 @@ Find me 👇🏽 </h4>
 <a href="https://linkedin.com/in/ashuhleyt" target="_blank">
  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a><br>
-<a href='mailto:ashuhleyt@gmail.com'><img alt='Gmail' src='https://img.shields.io/badge/Email_Me -100000?style=for-the-badge&logo=Gmail&logoColor=f2a60c&labelColor=08851b&color=c71610'/></a>
+<a href='mailto:ashuhleyt@gmail.com'><img alt='Gmail' src='https://img.shields.io/badge/Email_Me-100000?style=for-the-badge&logo=Gmail&logoColor=f2a60c&labelColor=08851b&color=c71610'/></a>
 <br>
 I love to chat. Lets make it happen. 
 <br> 
