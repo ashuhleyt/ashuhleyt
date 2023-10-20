@@ -38,6 +38,7 @@ Find me 👇🏽 </h4>
 </a>
 <br>
 <a href='mailto:ashuhleyt@gmail.com'><img alt='Gmail' src='https://img.shields.io/badge/Email_Me-100000?style=for-the-badge&logo=Gmail&logoColor=f2a60c&labelColor=08851b&color=c71610'/>
+</a>
 <br>
 I love to chat. Lets make it happen. 
 <br> 
