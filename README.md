@@ -1,13 +1,13 @@
 <div align="center">
-  
-## ✨ Hey there! I'm Ashley. ✨ 
+  <h1><a href="#">&#x200B;</a>✨ Hey there! I'm Ashley. ✨</h1>
+
 
   
-## Stay Hungry.    
+<h3><a href="#">&#x200B;</a>Stay Hungry.</h3>   
 </div>
 
 
-<h3>What I've Been Learning</h3>
+<h3><a href="#">&#x200B;</a>What I've Been Learning:</h3>  
 
 ![rubyonrails](https://img.shields.io/badge/rubyonrails-000000?style=for-the-badge&logo=rubyonrails&logoColor=red)
 ![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=light-blue)
@@ -24,7 +24,7 @@ In my limited free time, you can find me:
 - ☕️ Drinking far too much coffee
 - ✈️ Traveling anywhere and everywhere
 
-<h3>Wanna share ideas? Opportunities? Get in a deep conversation about the meaning of life?</h3>
+<h3><a href="#">&#x200B;</a>Wanna share ideas? Opportunities? Get in a deep conversation about the meaning of life?</h3>
 
 [![LinkedIn: ashuhleyt][linkedin-badge]][LinkedIn]
 [![gmail-badge]][Gmail]
