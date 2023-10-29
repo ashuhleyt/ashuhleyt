@@ -1,11 +1,12 @@
 <div align="center">
   <h1><a href="#">&#x200B;</a>✨ Hey there! I'm Ashley. ✨</h1>
 
+[<img src="https://media.giphy.com/media/28GHfhGFWpFgsQB4wR/giphy.gif" width="500" height="500">](https://giphy.com/gifs/foxhomeent-hello-friday-mrs-doubtfire-28GHfhGFWpFgsQB4wR)
+
 
   
 <h3><a href="#">&#x200B;</a>Stay Hungry.</h3>   
 </div>
-
 
 <h3><a href="#">&#x200B;</a>What I've Been Learning:</h3>  
 
